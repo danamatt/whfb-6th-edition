@@ -1,6 +1,8 @@
 Warhammer Fantasy Battle - 6th Edition
 ======================================
 
+[![Join the chat at https://gitter.im/BSData/whfb-6th-edition](https://badges.gitter.im/BSData/whfb-6th-edition.svg)](https://gitter.im/BSData/whfb-6th-edition?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 #### Contents ####
 
 * [Overview][]
